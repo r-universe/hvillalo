@@ -1,0 +1,10 @@
+[
+  {
+    "package": "echogram",
+    "oncran": true
+  },
+  {
+    "package": "satin",
+    "oncran": true
+  }
+]
